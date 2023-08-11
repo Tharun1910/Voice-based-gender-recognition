@@ -13,7 +13,7 @@ from keras.models import load_model
 
 
 # Load the machine learning model
-model = load_model("model1.h5")
+model = load_model("cnn.h5")
 
 # @app.route('/upload', methods=['POST'])
 # def upload_file():
